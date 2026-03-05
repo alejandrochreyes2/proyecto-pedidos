@@ -52,6 +52,9 @@ Este proyecto es un **MVP técnico** que simula la migración de una plataforma 
 9. **Contenedor MongoDB en Docker**  
    ![MongoDB](capturas/contenedormongo6.png)
 
+10. **Integracion datos en api publica**  
+   ![Datos apipublica](capturas/datosapipublica.png)
+
    ### Diagrama de Arquitectura
 ```mermaid
 graph TD
