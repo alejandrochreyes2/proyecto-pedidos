@@ -3,3 +3,6 @@
 "frontend/.angular/" 
 "*.log" 
 ".DS_Store" 
+frontend/.angular/
+frontend/dist/
+frontend/tmp/

@@ -1,0 +1,10 @@
+<div class="api-container">
+  <h2>Datos de API Pública (jsonplaceholder)</h2>
+  <div *ngIf="loading">Cargando...</div>
+  <ul *ngIf="!loading">
+    <li *ngFor="let post of posts">
+      <strong>{{post.title}}</strong><br>
+      {{post.body}}
+    </li>
+  </ul>
+</div>
